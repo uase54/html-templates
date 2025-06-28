@@ -1,2 +1,2 @@
 # simple html templates
-Simple free to use portfolio template
+template 1 = portfolio
