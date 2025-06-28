@@ -1,3 +1,8 @@
-# simple html templates
-template 1 = portfolio
-template 2 = shop template
+# uase-templates ⚡️
+## Templates⚡️
+
+⚡️ Template 1 = simple portfolio\
+⚡️ Template 2 = simple shop template
+
+## Credits 📦
+uase54 (me)
